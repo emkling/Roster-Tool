@@ -4,5 +4,3 @@ This is a simple tool intended to assist with a hypothetical migration of old da
 ## Description
 Each student is stored in an array with information pertaining to the following attributes: student ID, first name, last name, email, age, days in course, and degree program. Functions within the tool allow for the following: manipulating data, calculating averages, printing data by specific attributes, and checking for valid email addresses.
 
-### Executing program
-Program can be run through the 'main.cpp' c++ file

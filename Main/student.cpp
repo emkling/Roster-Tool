@@ -19,10 +19,7 @@ student::student (string student_id, string firstName, string lastName, string e
 	this->degreeProgram = degreeProgram;
 }
 
-
-
 //Mutator Functions
-
 void student::setDaysToCompletion(int daysToCompletion[]){
 
 	this->daysToCompletion[0] = daysToCompletion[0];

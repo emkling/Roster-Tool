@@ -11,7 +11,6 @@ private:
 	int daysToCompletion [3];
 	DegreeProgram degreeProgram;
 
-
 public:
 	int *getDaysToCompletion();
 	int getAge();
@@ -27,7 +26,6 @@ public:
 	void setLastName(std::string lastName);
 	void setEmail(std::string email);
 	void setDegreeProgram(DegreeProgram degreeProgram);
-
 
 	student(
 		std::string student_id,
